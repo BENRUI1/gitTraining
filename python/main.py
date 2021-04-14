@@ -11,12 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    print_hi('Nathalie')
-    print("Edit from user 2")
-    print("print fro user 1 on branch1")
-	
-	print("print from user 2 parallel")
 
     print("print from user 1 parallel")
 
