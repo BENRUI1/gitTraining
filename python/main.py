@@ -16,4 +16,6 @@ if __name__ == '__main__':
     print("Edit from user 2")
     print("print fro user 1 on branch1")
 
+    print("print from user 1 parallel")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
