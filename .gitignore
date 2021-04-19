@@ -1,3 +1,12 @@
 python/venv/
 .idea/.gitignore
 .idea/
+python/test.txt.orig
+python/test_BACKUP_840.txt
+python/test_BACKUP_936.txt
+python/test_BASE_840.txt
+python/test_BASE_936.txt
+python/test_LOCAL_840.txt
+python/test_LOCAL_936.txt
+python/test_REMOTE_840.txt
+python/test_REMOTE_936.txt
