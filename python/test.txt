@@ -1,2 +1,3 @@
 test
+Line from user 1
 Line from user 2
